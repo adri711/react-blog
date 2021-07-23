@@ -1,0 +1,10 @@
+{
+  "blogs": [
+    {
+      "title": "Hello, World!",
+      "body": "This is my first blog!",
+      "author": "mario",
+      "id": 1
+    }
+  ]
+}
